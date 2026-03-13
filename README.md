@@ -1,4 +1,4 @@
-# Hi, I'm Bhoopendra Singh 👋
+# Hi, I'm Bhoopendra Kumar(Bhuppi) 👋
 
 ![AI PM](https://img.shields.io/badge/Role-AI%20PM-blue)
 ![GenAI](https://img.shields.io/badge/Focus-GenAI-brightgreen)
