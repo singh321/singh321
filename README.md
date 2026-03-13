@@ -1,6 +1,12 @@
 # Hi, I'm Bhoopendra Singh 👋
 
 ### AI PM Leader | Product Leadership | GenAI, Agentic AI, RAG, AI Platforms
+![AI PM](https://img.shields.io/badge/Role-AI%20PM-blue)
+![GenAI](https://img.shields.io/badge/Focus-GenAI-brightgreen)
+![Agentic AI](https://img.shields.io/badge/Area-Agentic%20AI-orange)
+![RAG](https://img.shields.io/badge/Area-RAG-purple)
+![Product Strategy](https://img.shields.io/badge/Strength-Product%20Strategy-red)
+![0→1 Builder](https://img.shields.io/badge/Mindset-0--%3E1%20Builder-black)
 
 I build AI-native products that combine product strategy, customer understanding, LLM capabilities, workflow automation, and business impact.
 
