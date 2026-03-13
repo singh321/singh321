@@ -9,7 +9,7 @@
 
 ### AI Product Leader | 2x Founder | IIT Guwahati | Building AI-native products with LLMs, Agents, and RAG
 
-I build AI-native products that combine product strategy, customer understanding, LLM capabilities, workflow automation, and business impact.
+I build AI-native products that connect product strategy, customer problems, LLM capabilities, workflow automation, and measurable business impact.
 
 This GitHub is my public portfolio of AI PM work — including frameworks, PRDs, product case studies, platform thinking, AI product strategy, and practical artifacts.
 
@@ -43,12 +43,10 @@ I bring a rare combination of:
 
 ## Featured Areas
 
-- AI PM Playbooks
-- GenAI PRD Templates
-- Agentic AI Product Cases
-- AI Platform Strategy
-- LLM Evals for PMs
-- Product Leadership Case Studies
+• Publishing practical AI PM frameworks
+• Documenting platform strategy for AI-native companies
+• Building reusable artifacts for GenAI product teams
+• Creating recruiter-visible proof of work
 
 ---
 
@@ -72,3 +70,7 @@ I bring a rare combination of:
 ## Tags
 
 `AI PM` `GenAI` `Agentic AI` `RAG` `LLMs` `Product Strategy` `AI Platform` `0-to-1` `Product Leadership` `Evals` `Guardrails`
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singh321&show_icons=true&theme=dark)
