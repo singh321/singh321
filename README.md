@@ -25,11 +25,18 @@ I bring a rare combination of:
 - ability to connect technical capability with customer and business value
 
 ---
+## Highlights
 
-## Awards
+• Delivered $30M+ business impact across AI, SaaS, fintech, and agritech products  
+• Scaled Jeeva AI ARR from $4.3M → $8M+ by building an agentic AI ecosystem  
+• 2× Founder with successful startup acquisition (KrishiHub)  
+• Built AI supply chain platform serving 50K+ farmers with ML-driven pricing  
+• Scaled fintech platform to 150K+ users and ₹10Cr+ investments
 
-- Entrepreneur of The Year (2023) – Honored by the Indian Achievers’ Forum
-- Food Loss Asia Challenge (2018) – Recognized by RaboBank, Singapore
+## Awards & Recognition
+
+• Entrepreneur of the Year (2023) – Indian Achievers’ Forum  
+• Food Loss Asia Challenge (2018) – RaboBank, Singapore
 
 ---
 
