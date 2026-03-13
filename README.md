@@ -83,6 +83,7 @@ If you're building AI-native products or hiring AI product leadership, I'd love 
 • [LinkedIn](https://www.linkedin.com/in/singhbhoopendra/)
 • [Email](mailto:bhoopendrakumar1@gmail.com)
 • [Resume](https://drive.google.com/file/d/12-6Tz4kUjov2tvoD_deJJIdNc5jUt7VQ/view?usp=share_link)
+• [Portfolio](https://bhuppisingh.notion.site/Bhoopendra-Kumar-ef29413f404d47dfb87d5f97fe89344b)
 
 ---
 
