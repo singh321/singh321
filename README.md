@@ -35,9 +35,9 @@ I bring a rare combination of:
 
 ## Publications
 
-- Generative Online Simultaneous Task and Data Mapping on to 3D Stacked Large Chip Multiprocessor. 
-- International Conference on Parallel and Distributed Computing: Applications and Technologies
-- [Link](https://www.computer.org/csdl/proceedings-article/pdcat/2014/8334a166/12OmNzgeLAW)
+- Generative Online Simultaneous Task and Data Mapping on to 3D Stacked Large Chip Multiprocessor
+  - International Conference on Parallel and Distributed Computing: Applications and Technologies
+  - [Link](https://www.computer.org/csdl/proceedings-article/pdcat/2014/8334a166/12OmNzgeLAW)
 
 ---
 
