@@ -25,6 +25,7 @@ I bring a rare combination of:
 - ability to connect technical capability with customer and business value
 
 ---
+
 ## Highlights
 
 • Delivered $30M+ business impact across AI, SaaS, fintech, and agritech products  
@@ -32,6 +33,8 @@ I bring a rare combination of:
 • 2× Founder with successful startup acquisition (KrishiHub)  
 • Built AI supply chain platform serving 50K+ farmers with ML-driven pricing  
 • Scaled fintech platform to 150K+ users and ₹10Cr+ investments
+
+---
 
 ## Awards & Recognition
 
