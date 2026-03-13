@@ -26,6 +26,21 @@ I bring a rare combination of:
 
 ---
 
+## Awards
+
+• Entrepreneur of The Year (2023) – Honored by the Indian Achievers’ Forum
+• Food Loss Asia Challenge (2018) – Recognized by RaboBank, Singapore
+
+---
+
+## Publications
+
+• Generative Online Simultaneous Task and Data Mapping on to 3D Stacked Large Chip Multiprocessor. 
+• International Conference on Parallel and Distributed Computing: Applications and Technologies
+• Link(https://www.computer.org/csdl/proceedings-article/pdcat/2014/8334a166/12OmNzgeLAW)
+
+---
+
 ## What I work on
 
 - AI product strategy
@@ -43,18 +58,22 @@ I bring a rare combination of:
 
 ## Featured Areas
 
-• Publishing practical AI PM frameworks
-• Documenting platform strategy for AI-native companies
-• Building reusable artifacts for GenAI product teams
-• Creating recruiter-visible proof of work
+• AI PM Playbooks — frameworks and operating models for AI product teams  
+• GenAI PRD Templates — PRDs for copilots, RAG systems, and AI assistants  
+• Agentic AI Product Cases — design patterns for agent-based systems  
+• AI Platform Strategy — building shared intelligence layers across products  
+• LLM Evals for PMs — evaluating AI product quality and safety  
+• Product Leadership Case Studies — lessons from 0→1 and scale journeys
 
 ---
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/singhbhoopendra/)
-- [Email](mailto:bhoopendrakumar1@gmail.com)
-- [Resume](https://drive.google.com/file/d/12-6Tz4kUjov2tvoD_deJJIdNc5jUt7VQ/view?usp=share_link)
+If you're building AI-native products or hiring AI product leadership, I'd love to connect.
+
+• [LinkedIn](https://www.linkedin.com/in/singhbhoopendra/)
+• [Email](mailto:bhoopendrakumar1@gmail.com)
+• [Resume](https://drive.google.com/file/d/12-6Tz4kUjov2tvoD_deJJIdNc5jUt7VQ/view?usp=share_link)
 
 ---
 
