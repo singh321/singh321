@@ -28,16 +28,16 @@ I bring a rare combination of:
 
 ## Awards
 
-• Entrepreneur of The Year (2023) – Honored by the Indian Achievers’ Forum
-• Food Loss Asia Challenge (2018) – Recognized by RaboBank, Singapore
+- Entrepreneur of The Year (2023) – Honored by the Indian Achievers’ Forum
+- Food Loss Asia Challenge (2018) – Recognized by RaboBank, Singapore
 
 ---
 
 ## Publications
 
-• Generative Online Simultaneous Task and Data Mapping on to 3D Stacked Large Chip Multiprocessor. 
-• International Conference on Parallel and Distributed Computing: Applications and Technologies
-• [Link](https://www.computer.org/csdl/proceedings-article/pdcat/2014/8334a166/12OmNzgeLAW)
+- Generative Online Simultaneous Task and Data Mapping on to 3D Stacked Large Chip Multiprocessor. 
+- International Conference on Parallel and Distributed Computing: Applications and Technologies
+- [Link](https://www.computer.org/csdl/proceedings-article/pdcat/2014/8334a166/12OmNzgeLAW)
 
 ---
 
