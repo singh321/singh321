@@ -18,7 +18,7 @@ This GitHub is my public portfolio of AI PM work — including frameworks, PRDs,
 ## My USP
 
 I bring a rare combination of:
-- 15+ years of product leadership
+- 15+ years of total professional experience including 10 years in product management and leadership role
 - AI-native product strategy and execution
 - 0→1 product building and scaling
 - strong understanding of GenAI, agentic AI, RAG, evals, and AI platforms
