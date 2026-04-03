@@ -102,4 +102,4 @@ If you're building AI-native products or hiring AI product leadership, I'd love 
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singh321&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singh321&show_icons=true&theme=radical&cache_seconds=1800)
