@@ -99,9 +99,3 @@ If you're building AI-native products or hiring AI product leadership, I'd love 
 ## Tags
 
 `AI PM` `GenAI` `Agentic AI` `RAG` `LLMs` `Product Strategy` `AI Platform` `0-to-1` `Product Leadership` `Evals` `Guardrails`
-
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singh321&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singh321&theme=radical)
